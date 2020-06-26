@@ -13,4 +13,4 @@
 - DDD для организации приложения
 - Обязательно Vuejs
 
-Проверить форму можно по адресу https://quiet-oasis-86589.herokuapp.com/
+Проверить форму можно по адресу https://quiet-oasis-86589.herokuapp.com/# example_vue
